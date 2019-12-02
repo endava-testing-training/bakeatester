@@ -192,7 +192,7 @@ function AirbnbThumbComponent(props) {
     </span>
   );
 }
-
+/*
 export default function SlidersBT() {
   const classes = useStyles();
 
@@ -219,4 +219,4 @@ export default function SlidersBT() {
       />
     </Paper>
   );
-}
+}*/

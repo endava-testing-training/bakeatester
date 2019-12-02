@@ -9,7 +9,7 @@ import RadioButtonsBT from './components/RadioButtonsBT';
 import ToogleReactBT from './components/ToogleReactBT';
 import SearchBarBT from './components/SearchBarBT';
 import CarouselBT from './components/CarouselBT';
-import SlidersBT from './components/SlidersBT';
+//import SlidersBT from './components/SlidersBT';
 import PaginationPageBT from './components/PaginationPageBT';
 import NotificationBT from './components/NotificationBT';
 import ProgressBarBT from './components/ProgressBarBT';
@@ -234,7 +234,7 @@ const UiElements = (props) => (
                   <div className="col-2">Sliders</div>
                   <div className="col-6">A slider, also known as a track bar, allows users to set or adjust a value. When the user changes the value, it does not change the format of the interface or other info on the screen.</div>
                   <div className="col-4">
-                    <SlidersBT></SlidersBT>
+
                   </div>
                 </div>
 
