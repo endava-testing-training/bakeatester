@@ -32,7 +32,7 @@
     "react-swipeable-views": "^0.13.3",
     "reactstrap": "^8.1.1"
   },
-  "homepage": "https://endava-testing-training.github.io/bakeatester/home",
+  "homepage": "https://endava-testing-training.github.io/bakeatester",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
